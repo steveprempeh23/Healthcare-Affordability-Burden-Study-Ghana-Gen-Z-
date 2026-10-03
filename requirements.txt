@@ -1,0 +1,25 @@
+# Core data handling
+pandas>=2.0
+numpy>=1.24
+
+# Reading GLSS7/AHIES survey data (SPSS/Stata/DTA formats)
+pyreadstat>=1.2
+pandas-stata  # if using .dta files directly via pandas.read_stata (no separate install needed)
+
+# Statistics & simulation
+scipy>=1.10
+statsmodels>=0.14
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.12
+
+# Notebooks
+jupyter>=1.0
+ipykernel>=6.25
+
+# Config handling (if using YAML configs for extraction scripts)
+pyyaml>=6.0
+
+# Progress bars for Monte Carlo runs (optional but common)
+tqdm>=4.65
