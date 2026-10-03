@@ -78,7 +78,3 @@ A preprint of this manuscript will be made available on SSRN — link to be adde
 **Nana Owusu Achiaw Prempeh**
 MSc Data Science, Academic City University College
 GitHub: [@steveprempeh23](https://github.com/steveprempeh23)
-
-## License
-
-Code in this repository will be released under [MIT License — confirm before adding]. The manuscript text and figures remain under copyright pending journal publication; please do not redistribute the PDF without permission.
